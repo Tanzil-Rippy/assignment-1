@@ -1,0 +1,65 @@
+/* universal style */
+/* * {
+    width: 1600px;
+    height: 7335px;
+ 
+} */
+
+/* BANNER HEADING */
+
+.banner-head {
+    width: 50%;
+    margin: auto;
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+  ` */
+    /* 131.944% */
+}
+
+.banner-up {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    display: flex;
+}
+
+.banner {
+    background-image: url("../resources/Banner Image.png");
+    border-radius: 16px;
+/* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    margin: auto;
+}
+.offer{
+    color: #F00;
+text-align: center;
+font-size: 88px;
+font-weight: 700;
+
+}
+.deal{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+.all{
+    color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+}
+.new-year-pic{
+display: grid;
+place-items: center;
+}
+.offer-section{
+    width: 1600px;
+height: 7335px;
+}
