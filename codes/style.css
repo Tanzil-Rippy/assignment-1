@@ -99,3 +99,51 @@ margin: 0px 601px 142px 158px;
     width: 68px 138px 67px 862px;
     padding-top:  90px; ;
 }
+/* find me section */
+.find-me{
+    width: 1320px;
+height: 482px;
+background-color:rgb(248, 240, 227);
+margin: 0 auto;
+}
+.tdp{
+    /* margin: 100px 386px 48px 385px; */
+   text-align: center;
+}
+.red{
+    color: #F00;
+text-align: center;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+}
+.location{
+    color: #070211;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.red-btn{
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+ margin: 64px 560px 126px 560px;
+   
+}
+.btn-text{
+    color: #FFF;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
