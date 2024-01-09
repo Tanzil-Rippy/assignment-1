@@ -255,7 +255,7 @@
 }
 
 .portfolio-section {
-    margin-left: 140px;
+    /* margin-left: 140px; */
 }
 
 .portfolio {
@@ -285,6 +285,7 @@
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     margin: 0 auto;
+    margin-top: 150px;
 }
 
 .letter-pic {
@@ -331,6 +332,7 @@
 .mail {
     /* width: 425px; */
     margin: 25px 400px 25px 30px;
+    border: #FFF;
 }
 /* footer-sectionnnnnn */
 
@@ -394,4 +396,48 @@ font-weight: 500;
 }
 .unsub{
    
+}
+/* comming soon offer */
+.red-5{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+.c-soon-titel{
+    color: #070211;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.c-soon-p{
+    width: 393px;
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+
+}
+.year{color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.cs-text{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+.comming-soons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.round-img{
+    border: ;
+    width: 463px;
+height: 463px;
+border-radius: 463px;
+border: 15px solid #F00;
+
+
 }
