@@ -6,13 +6,20 @@
     margin: 0 auto;
     border-radius: 16px;
 }
-
+/* .new-year1{
+    margin-top: 100px;
+} */
+/* .banner-div{
+    margin-top: 175px;
+} */
 .banner-up {
     color: #FFF;
     text-align: center;
     font-size: 32px;
     font-weight: 400;
-    padding-top: 10;
+  /* margin: 0px;
+  margin-top: 170px; */
+  margin-top: ;
 }
 
 .banner-titel {
@@ -21,6 +28,7 @@
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
+    
     /* 131.944% */
     /* margin: 233 344 177 344; */
     /* margin: 0 auto; */
@@ -438,6 +446,8 @@ line-height: 32px; /* 160% */
 height: 463px;
 border-radius: 463px;
 border: 15px solid #F00;
-
-
+margin-right: 100px;
+}
+.comming-soons{
+    margin-top: 150px;
 }
