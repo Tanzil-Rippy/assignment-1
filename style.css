@@ -2,24 +2,19 @@
 .banner {
     width: 1320px;
     height: 600px;
-    background-image: url("./Banner Image.png");
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+
+    
+     url("./Banner Image.png");
     margin: 0 auto;
     border-radius: 16px;
 }
-/* .new-year1{
-    margin-top: 100px;
-} */
-/* .banner-div{
-    margin-top: 175px;
-} */
+
 .banner-up {
     color: #FFF;
     text-align: center;
     font-size: 32px;
     font-weight: 400;
-  /* margin: 0px;
-  margin-top: 170px; */
-  margin-top: ;
 }
 
 .banner-titel {
@@ -28,21 +23,12 @@
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
-    
-    /* 131.944% */
-    /* margin: 233 344 177 344; */
-    /* margin: 0 auto; */
-    /* background-position: bottom; */
 }
-
-.new-year {}
 
 /* offer section */
 
 .offer {
     text-align: center;
-    /* width: 1600px;
-    height: 7335px; */
 }
 
 .main-offer {
@@ -74,14 +60,14 @@
 }
 
 /* party related style */
+
 .party {
     width: 1320px;
     height: 600px;
-    background-image: url("./Vectorrr.png");
-    /* width: 0 auto;
-    background-repeat: no-repeat; */
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url("./Vectorrr.png");
     margin: 140px 100px 140px 100px;
     display: flex;
+    border-radius: 20px;
 }
 
 .party-titel {
@@ -96,7 +82,6 @@
 
 .party-discribtion {
     color: white;
-    /* color: rgba(255, 255, 255, 0.80); */
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
@@ -117,19 +102,19 @@
 .party-img {
     width: 68px 138px 67px 862px;
     padding-top: 90px;
-    ;
 }
 
 /* find me section */
+
 .find-me {
     width: 1320px;
-    height: 382px;
-    background-color: rgb(248, 240, 227);
+    height: 482px;
+    flex-shrink: 0;
     margin: 0 auto;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
 }
 
 .tdp {
-    /* margin: 100px 386px 48px 385px; */
     text-align: center;
     margin-top: 100px;
 }
@@ -176,7 +161,9 @@
 }
 
 /* main salse section */
+
 /* sales section */
+
 .sales-text {
     text-align: center;
 }
@@ -184,7 +171,6 @@
 .sales-pre-titel {
     color: #070211;
     font-size: 24px;
-    ;
     font-weight: 500;
     margin: 120px 0px 16px 0px;
 }
@@ -222,11 +208,10 @@
     background-image: url("Rectangle 2.png");
     background-repeat: no-repeat;
     background-position: bottom left;
-    back
 }
 
 .pic2 {
-    background-image: url(Rectangle 1.png);
+    background-image: url("Rectangle 1.png");
     background-position: top right;
     margin-bottom: 250px;
     margin-right: 100px;
@@ -235,7 +220,11 @@
     background-size: 430px;
 }
 
-/* portfolio sectionnnnnnnnnnnnnnnnn */
+/* portfolio section */
+.portfolio {
+    margin: 120px 0px 0px 140px;
+    }
+
 .port-red-p {
     color: #F00;
     font-size: 24px;
@@ -262,15 +251,6 @@
     margin-top: 22px;
 }
 
-.portfolio-section {
-    /* margin-left: 140px; */
-}
-
-.portfolio {
-    margin: 120px 0px 0px 140px;
-    */
-}
-
 .image-port-1 {
     justify-content: space-evenly;
     align-items: center;
@@ -282,10 +262,10 @@
 
 .image-port {
     margin: 0;
-
 }
 
 /* news latter sectionnnnnnnnnn */
+
 .newsletter {
     width: 1320px;
     height: 616px;
@@ -338,10 +318,10 @@
 }
 
 .mail {
-    /* width: 425px; */
     margin: 25px 400px 25px 30px;
     border: #FFF;
 }
+
 /* footer-sectionnnnnn */
 
 .footer-main{
@@ -371,11 +351,8 @@ margin-top: 100px;
 }
 ul >li{
     list-style: none;
-
 }
-.main-footer-div{
 
-}
 .contact{
     display: flex;
     justify-content: space-evenly;
@@ -402,9 +379,7 @@ font-weight: 500;
    margin:50px 280px 120px 140px;
    justify-content: space-between;
 }
-.unsub{
-   
-}
+
 /* comming soon offer */
 .red-5{
     color: #F00;
@@ -423,7 +398,6 @@ color: rgba(7, 2, 17, 0.60);
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; /* 160% */
-
 }
 .year{color: #F00;
     font-size: 48px;
